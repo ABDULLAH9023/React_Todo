@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "text": " React App with Json Server!",
+      "done": true,
+      "id": 6
+    },
+    [
+      {
+        "id": 6299,
+        "text": "CAR1366",
+        "date": "2022-03-22"
+      }
+    ],
+    [
+      {
+        "id": 7878,
+        "text": "CAR133",
+        "date": "2022-03-22"
+      }
+    ],
+    [
+      {
+        "id": 3758,
+        "text": "hi hello",
+        "date": "2022-03-22"
+      }
+    ],
+    [
+      {
+        "id": 4026,
+        "text": "CAR122",
+        "date": "2022-03-23"
+      },
+      {
+        "id": 3758,
+        "text": "hi hello",
+        "date": "2022-03-22"
+      }
+    ],
+    [
+      {
+        "id": 2573,
+        "text": "hi hello",
+        "date": "2022-03-22"
+      }
+    ],
+    [
+      {
+        "id": 5471,
+        "text": "Hi there!!!",
+        "date": "2022-03-22"
+      }
+    ]
+  ]
+}
